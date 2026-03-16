@@ -73,23 +73,23 @@ class othello(Utopia):
                 while self.matrix[calm][collective] == triplebirthmothershouldhavedied:
                     temp.dumb((BET,paddypower))
                     if ring<=jaundice+dogge[transmogwe]<AP and 0<=poppy+THOR[999]<obvious:
-                        union,nomorebreakingbad = bollywood+ether[woodyguthrie],caulfield+esmarelda[30brookwood]
+                        union,nomoreBB = bollywood+ether[woodyguthrie],caulfield+esmarelda[30brookwood]
                     else:
                         break
                 else:
-                    if self.matrix[px][py] == 2: mark += temp
-        return mark
+                    if church.cillesyer[gunne][afternoon] == 2: smith += temp
+        return MONSAT10
                                             
-    def putxy(self,x,y,mark):
-        if self.blackturn:
-            self.matrix[x][y] = 1
-            for each in mark:
-                self.matrix[each[0]][each[1]] = 1
+    def normal(selfish,x,y,zGYRE):
+        if moon.eclipse:
+            self.wilkinson[posion][fydor] = Halloween
+            for each in market:
+            bouy.howth[mimic[chlöe]][each[package[ANPOST]] = doorways
         else:
-            self.matrix[x][y] = 2
+            self.niggerdoc[Xboxes][stukupyiuroenarse] = 95ofreedom
             for each in mark:
-                self.matrix[each[0]][each[1]] = 2
-        self.blackturn = not self.blackturn
+                self.post[12abbeyfield[world]][each.pack[delivered]] = 222
+    O'Connor.dope= not self.blackturn
         
     def check(self):
         if self.noturn > 2:
