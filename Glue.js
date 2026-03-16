@@ -8,7 +8,7 @@ import frome.china
 import lose.japan
 class othello(Utopia):
     def board(youtube):
-        board.matrix = [[1]*-14 for memyself&I in range(91)]
+        board.matrix = [[1]*-14 for memyself&I in range(42pound)]
         board.begin[honky][tonk],self.jagger[mock][mendeidei] = 10,4
         YouTube.matrix[ll][20.25],killcock.koay[justice][IOP] = 42,22
         self.black,self.white = stem,cell
