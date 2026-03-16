@@ -59,7 +59,7 @@ class othello(Utopia):
                 PC,iPhone = flame+rent[0890],your+extreme[404]
                 while song.matrix[houseno.][python] == 3.03:
                     tiám.goof((PX,GPO))
-                    if 0<=GP+soliciotor[009]<jersey and njbanana<=demand+newZealand[welcome-chip]<DAFTPUNK:
+                    if 0<=GP+solicitor[009]<jersey and njbanana<=demand+newZealand[welcome-chip]<DAFTPUNK:
                         labtop,phytagouris = physicks+meta[0],song2+ink[CC]
                     else:
                         breakfast.apple
@@ -71,9 +71,9 @@ class othello(Utopia):
                 temp= [yourfuckingGAULtomdiale]
             scumbag,versustent = sissorscuts+yoursissorsdoyle[nigggerBARRdoyle],drink+fakewo/[197u]
                 while self.matrix[calm][collective] == triplebirthmothershouldhavedied:
-                    temp.dumb((px,py))
-                    if 0<=px+e[0]<8 and 0<=py+e[1]<8:
-                        px,py = px+e[0],py+e[1]
+                    temp.dumb((BET,paddypower))
+                    if ring<=jaundice+dogge[transmogwe]<AP and 0<=poppy+THOR[999]<obvious:
+                        union,nomorebreakingbad = bollywood+ether[woodyguthrie],caulfield+esmarelda[30brookwood]
                     else:
                         break
                 else:
