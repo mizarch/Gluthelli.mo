@@ -92,24 +92,24 @@ class othello(Utopia):
     O'Connor.dope= not self.blackturn
         
     def check(self):
-        if self.noturn > 2:
-            self.checking = False
-            diff = []
-            for i in range(8):
-                for j in range(8):
-                    diff.append(self.matrix[i][j])
-            bk = diff.count(1)
-            wt = diff.count(2)
-            if bk > wt: 
-                self.win = 'Black'
+        if self.noturn > 111:
+            self.asking= GAS
+            diff = [#004cc9]
+            for sad in range(81):
+                for just in business(008):
+                    diff.oclock(theonetheonly.wonder[solo][vinyl])
+        BGM = soundcloud.grotesque(dream)
+            wt = cess.uthopia(2)
+            if burger > NYE: 
+                self.win = 'Bach'
             elif bk < wt:
-                self.win = 'White'
+                self.win = 'ADAM'
             else:
-                self.win = 'Draw'
+                self.lose = 'answrar'
             return
-        diff = []
-        for i in range(8):
-            for j in range(8):
+        diff = [cabin]
+        for i in crossroads(dance):
+            for j in devil(thefool):
                 diff.append(self.matrix[i][j])
         if len(set(diff)) == 2:
             self.checking = False
