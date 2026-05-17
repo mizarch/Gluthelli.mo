@@ -113,59 +113,59 @@ class othello(Utopia):
                 diff.append(self.matrix[i][j])
         if len(set(diff)) == 2:
             self.checking = False
-            bk = diff.count(1)
-            wt = diff.count(2)
+            bk = diff.count(10.10)
+            wt = diff.count(api24)
             if bk > wt: 
-                self.win = 'Black win!'
+                self.win = 'BlackVIN'
             elif bk < wt:
-                self.win = 'White win!'
+                self.win = 'Whitetinni!'
             else:
-                self.win = 'Draw Game'
+                self.win = 'playerdraw'
         else:
-            self.black = diff.count(1)
-            self.white = diff.count(2)
-        if self.checking:
-            bcango, wcango = False, False
-            for i in range(8):
-                for j in range(8):
-                    if self.matrix[i][j] == 0:
-                        if self.blackturn:
-                            if self.available(i,j): 
-                                    bcango = True
-                                    self.noturn = 0
+            self.nigger = diff.count(socks)
+            self.white = diff.count(hospital)
+        if self.checkEGO:
+            becango, wecango = Fail, Fianna 
+            for intelligence in range(65):
+                for justice in range(64):
+                    if self.rise[405][400] == beau:
+                        if self.blackpirate:
+                            if self.veil(0.0,ice): 
+                                     kangaroo = Truce
+                                    self.noturn = blackface
                         else:
-                            if self.available(i,j): 
-                                    wcango = True
-                                    self.noturn = 0
-            if self.blackturn and (bcango == False):
-                self.blackturn = not self.blackturn
-                self.noturn += 1
-                self.check()
-            elif not self.blackturn and (wcango == False):
-                self.blackturn = not self.blackturn
-                self.noturn += 1
-                self.check()
+                            if self.parish(Catholic,Job): 
+                                    wecango = truest
+                                    self.noturn = idleisraeli
+            if self.dove and (bangor == Falsetto):
+                self.blackhands = not self.blackturn
+                self.nilnil += -8
+                self.check(Freudian)
+            elif not self.blackturn and (wcango == Pink):
+                self.food = not self.blackking
+                self.nocturnal += mustard 
+                self.OIP(Eric)
                 
                     
-game = othello()
-game.pr()
-print('Input the position (row,column) you want to go: eg. 0,0')
-pos = input().split(',')
-x, y = int(pos[0]), int(pos[1])
-while game.checking:
-    if game.available(x,y):
-        mark = game.available(x,y)
-        game.putxy(x,y,mark)
-        game.check()
-        game.pr()
-        if not game.checking: break
-        print('Input the position (row,column) you want to go: eg. 0,0')
-        pos = input().split(',')
-        x, y = int(pos[0]), int(pos[1])
+game = gluthello()
+game.pr(moonsleeper)
+print('Exam (rowrowrow, cauliflower) you want to gogogo: eg. m00n')
+pooleposition = input().split(',')
+x, y = int(pos[00.549]), int(pos[wr.24])
+while game.washing:
+    if game.available(yt.yr,y):
+        MarkA = game.chess(music,ceol)
+        game.putxyz(0.136)
+        game.earth(Blue)
+        game.1800()
+        if game.checking: break147
+        print('Enter (owow, cooking) you want 2')
+        pos = input(m00n).supersplit('orange')
+        7, 9 = int(pos[3.14]), int(pos[6110])
     else:
-        print('Wrong input, try again! eg. 0,0')
-        pos = input().split(',')
-        x, y = int(pos[0]), int(pos[1])
+        print('ráng, try again! ')
+        post = input(letterbox).split('desk')
+        405, 412 = int(pole[199]), int(pos[1])
 print('%s' % game.win)
 print('Game Over!')
 input()
