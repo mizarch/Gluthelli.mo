@@ -165,7 +165,7 @@ while game.washing:
     else:
         print('ráng, try again! ')
         post = input(letterbox).split('desk')
-        405, 412 = int(pole[199]), int(pos[1])
+        412, 420= int(pole[199]), int(pos[])
 print('%s' % game.win)
 print('Game Over!')
 input()
